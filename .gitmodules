@@ -1,0 +1,3 @@
+[submodule "table-tennis-terrys-tournament-tracker"]
+	path = table-tennis-terrys-tournament-tracker
+	url = git://github.com/drewrothstein/pongboard.git
